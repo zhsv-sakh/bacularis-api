@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-11-15 02:59\n"
-"Project-Id-Version: b02f04a28aec0155df9503e3b78ae8cc\n"
+"PO-Revision-Date: 2022-11-14 00:12\n"
+"Project-Id-Version: bacularis\n"
 "POT-Creation-Date: \n"
-"Last-Translator: Sergey Zhidkov <zhsv@bk.ru>\n"
+"Last-Translator: Marcin Haba <marcin.haba@bacula.pl>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -11,11 +11,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.4\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
-"X-Crowdin-Project: b02f04a28aec0155df9503e3b78ae8cc\n"
-"X-Crowdin-Project-ID: 1\n"
+"X-Crowdin-Project: bacularis\n"
+"X-Crowdin-Project-ID: 522050\n"
 "X-Crowdin-Language: ru\n"
-"X-Crowdin-File: /Baculum API/messages.po\n"
-"X-Crowdin-File-ID: 51\n"
+"X-Crowdin-File: /Bacularis API/messages.po\n"
+"X-Crowdin-File-ID: 33\n"
 
 msgid "Language:"
 msgstr "Язык:"
@@ -465,10 +465,10 @@ msgid "Sudo configuration"
 msgstr "Конфигурация Sudo"
 
 msgid "Example sudo configuration for Apache, Nginx and Lighttpd web servers with default PHP-FPM configuration (Debian, Ubuntu and others):"
-msgstr "Example sudo configuration for Apache, Nginx and Lighttpd web servers with default PHP-FPM configuration (Debian, Ubuntu and others):"
+msgstr "Пример конфигурации sudo для Apache, Nginx и Lighttpd веб-серверов с настройкой PHP-FPM по умолчанию (Debian, Ubuntu и другие):"
 
 msgid "Example sudo configuration for Apache, Nginx and Lighttpd web servers with default PHP-FPM configuration (RHEL, CentOS and others):"
-msgstr "Example sudo configuration for Apache, Nginx and Lighttpd web servers with default PHP-FPM configuration (RHEL, CentOS and others):"
+msgstr "Пример конфигурации sudo для Apache, Nginx и Lighttpd веб-серверов с настройкой PHP-FPM по умолчанию (RHEL, CentOS и другие):"
 
 msgid "Get sudo configuration"
 msgstr "Как настроить sudo"
@@ -686,201 +686,201 @@ msgstr "Настройка:"
 msgid "Dedicated Bconsole config"
 msgstr "Выделенная Bconsole"
 
-
 msgid "Step 1 - general options"
-msgstr "Step 1 - general options"
+msgstr "Шаг 1 - Общие параметры"
 
 msgid "Services:"
-msgstr "Services:"
+msgstr "Сервисы:"
 
 msgid "Enable API instance"
-msgstr "Enable API instance"
+msgstr "Включить экземпляр API"
 
 msgid "Enable web interface"
-msgstr "Enable web interface"
+msgstr "Включить веб-интерфейс"
 
 msgid "Welcome to the Bacularis install wizard"
-msgstr "Welcome to the Bacularis install wizard"
+msgstr "Добро пожаловать в мастер установки Bacularis"
 
 msgid "Please select language."
-msgstr "Please select language."
+msgstr "Пожалуйста, выберите язык."
 
 msgid "What services would you like to enable for this installation?"
-msgstr "What services would you like to enable for this installation?"
+msgstr "Какие сервисы вы хотите включить для этой установки?"
 
 msgid "recommended"
-msgstr "recommended"
+msgstr "рекомендуется"
 
 msgid "Step 5 - authentication"
-msgstr "Step 5 - authentication"
+msgstr "Шаг 5 - аутентификация"
 
 msgid "API authentication"
-msgstr "API authentication"
+msgstr "Аутентификация API"
 
 msgid "Use the same credentials for the API and for the web interface"
-msgstr "Use the same credentials for the API and for the web interface"
+msgstr "Используйте те же учетные данные для API и для веб-интерфейса"
 
 msgid "Advanced options"
-msgstr "Advanced options"
+msgstr "Расширенные настройки"
 
 msgid "Web interface settings"
-msgstr "Web interface settings"
+msgstr "Настройки веб-интерфейса"
 
 msgid "API IP Address/Hostname:"
-msgstr "API IP Address/Hostname:"
+msgstr "API IP-адрес/Имя хоста:"
 
 msgid "Web interface authentication"
-msgstr "Web interface authentication"
+msgstr "Аутентификация веб-интерфейса"
 
 msgid "API Protocol:"
-msgstr "API Protocol:"
+msgstr "Протокол API:"
 
 msgid "API Port:"
-msgstr "API Port:"
+msgstr "Порт API:"
 
 msgid "Select OS type"
-msgstr "Select OS type"
+msgstr "Выберите тип ОС"
 
 msgid "RPM-based system"
-msgstr "RPM-based system"
+msgstr "RPM система"
 
 msgid "DEB-based system"
-msgstr "DEB-based system"
+msgstr "DEB система"
 
 msgid "Director installation command:"
-msgstr "Director installation command:"
+msgstr "Команда установки директора:"
 
 msgid "Director upgrade command:"
-msgstr "Director upgrade command:"
+msgstr "Команда обновления директора:"
 
 msgid "Director removal command:"
-msgstr "Director removal command:"
+msgstr "Команда удаления директора:"
 
 msgid "Director info command:"
-msgstr "Director info command:"
+msgstr "Команда информации о директоре:"
 
 msgid "Director enable command:"
-msgstr "Director enable command:"
+msgstr "Команда включения директора:"
 
 msgid "Director pre-installation command:"
-msgstr "Director pre-installation command:"
+msgstr "Команда переустановки директора:"
 
 msgid "Director pre-upgrade command:"
-msgstr "Director pre-upgrade command:"
+msgstr ""
 
 msgid "Director pre-removal command:"
-msgstr "Director pre-removal command:"
+msgstr ""
 
 msgid "Director post-installation command:"
-msgstr "Director post-installation command:"
+msgstr ""
 
 msgid "Director post-upgrade command:"
-msgstr "Director post-upgrade command:"
+msgstr ""
 
 msgid "Director post-removal command:"
-msgstr "Director post-removal command:"
+msgstr ""
 
 msgid "Storage Daemon installation command:"
-msgstr "Storage Daemon installation command:"
+msgstr ""
 
 msgid "Storage upgrade command:"
-msgstr "Storage upgrade command:"
+msgstr ""
 
 msgid "Storage removal command:"
-msgstr "Storage removal command:"
+msgstr ""
 
 msgid "Storage info command:"
-msgstr "Storage info command:"
+msgstr ""
 
 msgid "Storage enable command:"
-msgstr "Storage enable command:"
+msgstr ""
 
 msgid "Storage pre-installation command:"
-msgstr "Storage pre-installation command:"
+msgstr ""
 
 msgid "Storage pre-upgrade command:"
-msgstr "Storage pre-upgrade command:"
+msgstr ""
 
 msgid "Storage pre-removal command:"
-msgstr "Storage pre-removal command:"
+msgstr ""
 
 msgid "Storage post-installation command:"
-msgstr "Storage post-installation command:"
+msgstr ""
 
 msgid "Storage post-upgrade command:"
-msgstr "Storage post-upgrade command:"
+msgstr ""
 
 msgid "Storage post-removal command:"
-msgstr "Storage post-removal command:"
+msgstr ""
 
 msgid "Client installation command:"
-msgstr "Client installation command:"
+msgstr ""
 
 msgid "Client upgrade command:"
-msgstr "Client upgrade command:"
+msgstr ""
 
 msgid "Client removal command:"
-msgstr "Client removal command:"
+msgstr ""
 
 msgid "Client info command:"
-msgstr "Client info command:"
+msgstr ""
 
 msgid "Client enable command:"
-msgstr "Client enable command:"
+msgstr ""
 
 msgid "Client pre-installation command:"
-msgstr "Client pre-installation command:"
+msgstr ""
 
 msgid "Client pre-upgrade command:"
-msgstr "Client pre-upgrade command:"
+msgstr ""
 
 msgid "Client pre-removal command:"
-msgstr "Client pre-removal command:"
+msgstr ""
 
 msgid "Client post-installation command:"
-msgstr "Client post-installation command:"
+msgstr ""
 
 msgid "Client post-upgrade command:"
-msgstr "Client post-upgrade command:"
+msgstr ""
 
 msgid "Client post-removal command:"
-msgstr "Client post-removal command:"
+msgstr ""
 
 msgid "Bconsole installation command:"
-msgstr "Bconsole installation command:"
+msgstr ""
 
 msgid "Bconsole upgrade command:"
-msgstr "Bconsole upgrade command:"
+msgstr ""
 
 msgid "Bconsole removal command:"
-msgstr "Bconsole removal command:"
+msgstr ""
 
 msgid "Bconsole info command:"
-msgstr "Bconsole info command:"
+msgstr ""
 
 msgid "Bconsole enable command:"
-msgstr "Bconsole enable command:"
+msgstr ""
 
 msgid "Bconsole pre-installation command:"
-msgstr "Bconsole pre-installation command:"
+msgstr ""
 
 msgid "Bconsole pre-upgrade command:"
-msgstr "Bconsole pre-upgrade command:"
+msgstr ""
 
 msgid "Bconsole pre-removal command:"
-msgstr "Bconsole pre-removal command:"
+msgstr ""
 
 msgid "Bconsole post-installation command:"
-msgstr "Bconsole post-installation command:"
+msgstr ""
 
 msgid "Bconsole post-upgrade command:"
-msgstr "Bconsole post-upgrade command:"
+msgstr ""
 
 msgid "Bconsole post-removal command:"
-msgstr "Bconsole post-removal command:"
+msgstr ""
 
 msgid "Software management"
-msgstr "Software management"
+msgstr ""
 
 msgid "Get pre-defined commands:"
-msgstr "Get pre-defined commands:"
+msgstr ""
+
