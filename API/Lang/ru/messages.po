@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-14 00:12\n"
+"PO-Revision-Date: 2022-11-15 02:47\n"
 "Project-Id-Version: bacularis\n"
 "POT-Creation-Date: \n"
 "Last-Translator: Marcin Haba <marcin.haba@bacula.pl>\n"
@@ -255,7 +255,7 @@ msgid "Main Bconsole config file path:"
 msgstr "Путь к файлу конфигурации Bconsol:"
 
 msgid "Please select API endpoint"
-msgstr "Пожалуйста, выберите конечную точку API"
+msgstr "Выберите конечную точку API"
 
 msgid "Catalog access:"
 msgstr "Доступ к каталогу:"
@@ -765,122 +765,122 @@ msgid "Director pre-installation command:"
 msgstr "Команда переустановки директора:"
 
 msgid "Director pre-upgrade command:"
-msgstr ""
+msgstr "Команда перед обновлением директора:"
 
 msgid "Director pre-removal command:"
-msgstr ""
+msgstr "Команда перед удалениемдиректора:"
 
 msgid "Director post-installation command:"
-msgstr ""
+msgstr "Команда после установки директора:"
 
 msgid "Director post-upgrade command:"
-msgstr ""
+msgstr "Команда после обновления директора:"
 
 msgid "Director post-removal command:"
-msgstr ""
+msgstr "Команда после удаления директора:"
 
 msgid "Storage Daemon installation command:"
-msgstr ""
+msgstr "Команда установки демона хранилища:"
 
 msgid "Storage upgrade command:"
-msgstr ""
+msgstr "Команда обновления Хранилища:"
 
 msgid "Storage removal command:"
-msgstr ""
+msgstr "Команда удаления Хранилища:"
 
 msgid "Storage info command:"
-msgstr ""
+msgstr "Команда информации о Хранилище:"
 
 msgid "Storage enable command:"
-msgstr ""
+msgstr "Команда включения Хранилища:"
 
 msgid "Storage pre-installation command:"
-msgstr ""
+msgstr "Команда перед установкой хранилища:"
 
 msgid "Storage pre-upgrade command:"
-msgstr ""
+msgstr "Команда перед обновлением хранилища:"
 
 msgid "Storage pre-removal command:"
-msgstr ""
+msgstr "Команда перед удалением хранилища:"
 
 msgid "Storage post-installation command:"
-msgstr ""
+msgstr "Команда после установки хранилища:"
 
 msgid "Storage post-upgrade command:"
-msgstr ""
+msgstr "Команда после обновления хранилища:"
 
 msgid "Storage post-removal command:"
-msgstr ""
+msgstr "Команда после удаления хранилища:"
 
 msgid "Client installation command:"
-msgstr ""
+msgstr "Команда установки клиента:"
 
 msgid "Client upgrade command:"
-msgstr ""
+msgstr "Команда обновления клиента:"
 
 msgid "Client removal command:"
-msgstr ""
+msgstr "Команда удаления клиента:"
 
 msgid "Client info command:"
-msgstr ""
+msgstr "Команда информации о клиенте:"
 
 msgid "Client enable command:"
-msgstr ""
+msgstr "Команда включения клиента:"
 
 msgid "Client pre-installation command:"
-msgstr ""
+msgstr "Команда перед установкой клиента:"
 
 msgid "Client pre-upgrade command:"
-msgstr ""
+msgstr "Команда перед обновлением клиента:"
 
 msgid "Client pre-removal command:"
-msgstr ""
+msgstr "Команда перед удалением клиента:"
 
 msgid "Client post-installation command:"
-msgstr ""
+msgstr "Команда после установки клиента:"
 
 msgid "Client post-upgrade command:"
-msgstr ""
+msgstr "Команда после обновления клиента:"
 
 msgid "Client post-removal command:"
-msgstr ""
+msgstr "Команда после удаления клиента:"
 
 msgid "Bconsole installation command:"
-msgstr ""
+msgstr "Команда установки Bconsole:"
 
 msgid "Bconsole upgrade command:"
-msgstr ""
+msgstr "Команда обновления Bconsole:"
 
 msgid "Bconsole removal command:"
-msgstr ""
+msgstr "Команда удаления Bconsole:"
 
 msgid "Bconsole info command:"
-msgstr ""
+msgstr "Команда информации Bconsole:"
 
 msgid "Bconsole enable command:"
-msgstr ""
+msgstr "Команда включения Bconsole:"
 
 msgid "Bconsole pre-installation command:"
-msgstr ""
+msgstr "Команда перед установкой Bconsole:"
 
 msgid "Bconsole pre-upgrade command:"
-msgstr ""
+msgstr "Команда перед обновлением Bconsole:"
 
 msgid "Bconsole pre-removal command:"
-msgstr ""
+msgstr "Команда перед удалением Bconsole:"
 
 msgid "Bconsole post-installation command:"
-msgstr ""
+msgstr "Команда после установки Bconsole:"
 
 msgid "Bconsole post-upgrade command:"
-msgstr ""
+msgstr "Команда после обновления Bconsole:"
 
 msgid "Bconsole post-removal command:"
-msgstr ""
+msgstr "Команда после удаления Bconsole:"
 
 msgid "Software management"
-msgstr ""
+msgstr "Управление ПО"
 
 msgid "Get pre-defined commands:"
-msgstr ""
+msgstr "Получить заранее определенные команды:"
 
